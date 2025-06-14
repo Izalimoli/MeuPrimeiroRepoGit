@@ -8,3 +8,7 @@ media <- mean(notas)
 
 # Imprimindo o resultado
 cat("A média das notas é:", media, "\n")
+
+x <- c(1,2,3)
+y <- mean(x)
+cat(y)
